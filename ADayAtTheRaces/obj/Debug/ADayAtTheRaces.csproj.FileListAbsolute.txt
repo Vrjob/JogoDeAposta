@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe.config
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Form1.resources
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Properties.Resources.resources
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.exe
+C:\Users\victo\Desktop\Projetos CSharp\01. Book. Head First CSharp\Lab 01. A Day at the Races\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.pdb
